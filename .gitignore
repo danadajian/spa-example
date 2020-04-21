@@ -1,3 +1,9 @@
+express/node_modules
+express/build
+
+react/node_modules
+react/build
+
 # Logs
 logs
 *.log
